@@ -22,4 +22,4 @@ fi
 
 # Install the wifi drivers
 sudo apt update -y
-sudo apt install bcmwl-kernel-source
+sudo apt install -y bcmwl-kernel-source
